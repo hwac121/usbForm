@@ -7,7 +7,7 @@
 # Description: Simple USB format utility
 ###########################################
 
-Splash(){
+splash(){
 figlet "USB Format" | lolcat
 }
 
