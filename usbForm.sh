@@ -2,7 +2,7 @@
 
 ###########################################
 # Script: USB Format Utility
-# Author: Majik Cat Security
+# Author: RJ Levesque, Jr. - Majik Cat Security
 # Date: August 19, 2024
 # Description: Simple USB format utility
 ###########################################
